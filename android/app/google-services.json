@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628675345076",
+    "project_id": "signin-with-fb0a4",
+    "storage_bucket": "signin-with-fb0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628675345076:android:70841edaea580a5813b5e1",
+        "android_client_info": {
+          "package_name": "com.example.signin_signup_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628675345076-4jl54e6a47si461lm2id02s4qbo8gu8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-Jw_fmUE_WfghElh9K2hAkqi6TKJSfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628675345076-4jl54e6a47si461lm2id02s4qbo8gu8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
